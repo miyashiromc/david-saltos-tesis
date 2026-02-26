@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# Allow directories to be searched
+!*/
+
+# Allow PDF files
+!*.pdf
+
+# Allow .gitignore
+!.gitignore
